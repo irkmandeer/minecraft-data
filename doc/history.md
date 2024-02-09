@@ -1,3 +1,39 @@
+## 3.61.0
+* [Add bedrock 1.20.61 protocol data (#845)](https://github.com/PrismarineJS/minecraft-data/commit/b38e5da05d345d3c3af52466cf74167a94b1bb1a) (thanks @extremeheat)
+* [Add 24w06a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/5630ff7074903a6638dd6595315888d9585d0e59) (thanks @github-actions[bot])
+* [Add 24w05b to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/ff68bc8540e582042af86edc5bf8ca98f8017f1d) (thanks @github-actions[bot])
+* [Add 24w05a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/f2bbe7b57103d4c0c274a6dbc06f34e1c3638fc1) (thanks @github-actions[bot])
+
+## 3.60.0
+* [Fix spelling on packet_configuration_acknowledged in all locations in 1.20.2 protocol.json (#841)](https://github.com/PrismarineJS/minecraft-data/commit/4b0ac882a3900525dbf6cc0f0a4ffb9234d3b029) (thanks @wgaylord)
+* [Add New Data Version - Doc update (#835)](https://github.com/PrismarineJS/minecraft-data/commit/c1b5113fc402966550050c326589524e7e606626) (thanks @wgaylord)
+* [Add 24w04a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/1c4cacac6874d513e8725833aa53f0772b0e12b7) (thanks @github-actions[bot])
+* [Add 24w03b to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/3e9e68884fcaac7a15e87361fd793eab1d2d11ac) (thanks @github-actions[bot])
+* [Add 24w03a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/edddc84ce25fb34c6c92aa995adf158272915a9e) (thanks @github-actions[bot])
+
+## 3.59.3
+* [pc: add `chatPacketsUseNbtComponents` feature for 1.20.3](https://github.com/PrismarineJS/minecraft-data/commit/42d7ecc1aa70dd0d7683aada09aea8c498d1a1a5) (thanks @extremeheat)
+
+## 3.59.2
+* [Fix pc dimensionDataIsAvailable feature range](https://github.com/PrismarineJS/minecraft-data/commit/afd576f9b3cbedc4c2f7cbca1e849dc3760027b1) (thanks @extremeheat)
+
+## 3.59.1
+* [Add pc feature `unifiedPlayerAndEntitySpawnPacket`](https://github.com/PrismarineJS/minecraft-data/commit/bd3c9757d0f9d40c797024ed09c3a5e99e815b77) (thanks @extremeheat)
+* [Add an unicity test for features. (#824)](https://github.com/PrismarineJS/minecraft-data/commit/587a1341c83ef4fc1cf3353d35b09435a11f8217) (thanks @rom1504)
+
+## 3.59.0
+* [Fix breeze and wind charge being type player. (#826)](https://github.com/PrismarineJS/minecraft-data/commit/1792f0d8035aa275702b6080d4176ca14a3f578a) (thanks @wgaylord)
+
+## 3.58.0
+* [Update flying-squid PC features (#823)](https://github.com/PrismarineJS/minecraft-data/commit/344619e053614d6ab5c97bf6477c99699ad57a46) (thanks @Pandapip1)
+
+## 3.57.0
+* [Add loginPacket for 1.20 / 1.20.1 (#821)](https://github.com/PrismarineJS/minecraft-data/commit/c508b6f7eec91724a830a71d663f90a141155330) (thanks @wgaylord)
+
+## 3.56.0
+* [Fix 1.20.2 and 1.20.3 metadata keys (#818)](https://github.com/PrismarineJS/minecraft-data/commit/7c65e2640ef7efad691ee9cbd22377c655e44c40) (thanks @wgaylord)
+* [node 18 (#709)](https://github.com/PrismarineJS/minecraft-data/commit/4360b8461f655b943271d8101660dfb544c477f9) (thanks @rom1504)
+
 ## 3.55.0
 * [Add missing seed field in 1.19 based on minecraft packet tests](https://github.com/PrismarineJS/minecraft-data/commit/5f9995a821311c9ac926a208f957bd76a468fe55) (thanks @rom1504)
 
