@@ -1,3 +1,9 @@
+## 3.62.0
+* [Fix 1.20.2 and 1.20.3 Recipes, change docs to say to use Burger inste… (#843)](https://github.com/PrismarineJS/minecraft-data/commit/d47396ed1e8962fa0310bb603fc3ff4a4521b4f4) (thanks @wgaylord)
+
+## 3.61.2
+* [Add style to command param type enum in pc 1.20.3 protocol (#850)](https://github.com/PrismarineJS/minecraft-data/commit/4acaa9bd255951873eb11b12aca15a1079680d67) (thanks @extremeheat)
+
 ## 3.61.1
 * [[bedrock] Fix issue with player auth input data (#848)](https://github.com/PrismarineJS/minecraft-data/commit/985b2bef89e9642da1be90b825969a4818d5e5e8) (thanks @MrDiamond64)
 * [Add 24w07a to pc protocolVersions.json](https://github.com/PrismarineJS/minecraft-data/commit/4bf2ae5ccb7da0dc51898dbdd85cfbd04621fe07) (thanks @github-actions[bot])
