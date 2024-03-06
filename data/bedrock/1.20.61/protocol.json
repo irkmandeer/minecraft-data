@@ -9055,7 +9055,7 @@
       [
         {
           "name": "coordinates",
-          "type": "BlockCoordinates"
+          "type": "vec3i"
         },
         {
           "name": "radius",
