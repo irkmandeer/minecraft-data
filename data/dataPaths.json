@@ -1994,9 +1994,9 @@
       "language": "bedrock/1.20.10"
     },
     "1.20.71": {
-      "blocks": "bedrock/1.20.0",
-      "blockStates": "bedrock/1.20.0",
-      "blockCollisionShapes": "bedrock/1.20.0",
+      "blocks": "bedrock/1.20.61",
+      "blockStates": "bedrock/1.20.61",
+      "blockCollisionShapes": "bedrock/1.20.61",
       "biomes": "bedrock/1.20.0",
       "entities": "bedrock/1.19.1",
       "items": "bedrock/1.20.0",
